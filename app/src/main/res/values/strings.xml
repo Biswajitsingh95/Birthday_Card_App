@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Card App</string>
+    <string name="from_biswajit">From Biswajit</string>
+    <string name="textColor">sans-serif-light</string>
+    <string name="happy_birthday_yourfriendhere">Happy Birthday YoURFRIENDHERE</string>
+    <string name="todo">TODO</string>
+</resources>
